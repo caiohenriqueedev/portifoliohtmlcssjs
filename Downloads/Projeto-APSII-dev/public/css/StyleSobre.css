@@ -1,0 +1,28 @@
+/* Estilo para centralizar o texto do h2 */
+h2 {
+    text-align: left;
+    font-size: 50px;
+    color: brown; /* Exemplo de alteração de cor */
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    background-image: url('../assets/sobre.jpg');
+    background-size: cover;
+    
+  }
+
+  .nos {
+    font-weight: bold;   /* Torna o texto em negrito */
+    color: white;
+
+    display: flex; /* Usando Flexbox */
+    align-items: center; /* Alinha o texto verticalmente no centro */
+            
+    }
+
+    img {
+    margin-right: 10px; /* Espaço entre a imagem e o texto */
+    width: 150px; /* Definindo um tamanho fixo para a imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    }
