@@ -1,1 +1,0 @@
-// precisa arrumar pra deixar a navegação suave
